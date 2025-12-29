@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///D:/old/Dev/learn-nextjs/app/blogs/%5BBLOGID%5D/page.js"],"sourcesContent":["async function BlogID({ params }) {\r\n    console.log(params);\r\n    const {BLOGID} = await params;\r\n  return (\r\n    <div>\r\n      <h1>Blogs: {BLOGID}</h1>\r\n    </div>\r\n  );\r\n}\r\n\r\nexport default BlogID;"],"names":[],"mappings":";;;;;;AAAA,eAAe,OAAO,EAAE,MAAM,EAAE;IAC5B,QAAQ,GAAG,CAAC;IACZ,MAAM,EAAC,MAAM,EAAC,GAAG,MAAM;IACzB,qBACE,iQAAC;kBACC,cAAA,iQAAC;;gBAAG;gBAAQ;;;;;;;;;;;;AAGlB;uCAEe"}}]
+}

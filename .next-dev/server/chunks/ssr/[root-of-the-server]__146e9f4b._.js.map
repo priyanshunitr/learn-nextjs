@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../learn-nextjs/app/blogs/page.js"],"sourcesContent":["export default function Blogs() {\r\n  return (\r\n    <div>\r\n      <h1>Welcome to the Blogs Page</h1>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":"sVAAe,SAAS,IACtB,MACE,CAAA,EAAA,EAAA,GAAA,EAAC,MAAA,UACC,CAAA,EAAA,EAAA,GAAA,EAAC,KAAA,UAAG,+BAGV"}

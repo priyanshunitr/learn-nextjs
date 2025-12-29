@@ -3,5 +3,6 @@ export default function Blogs() {
     <div>
       <h1>Welcome to the Blogs Page</h1>
     </div>
+    
   );
 }

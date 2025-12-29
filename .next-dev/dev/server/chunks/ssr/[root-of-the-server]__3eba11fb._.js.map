@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///D:/old/Dev/learn-nextjs/app/blogs/%5BSLUGS%5D/page.js"],"sourcesContent":["async function Blogs({ params }) {\r\n    const {SLUGS} = await params;\r\n  return (\r\n    <div>\r\n      <h1>Blogs: {SLUGS}</h1>\r\n    </div>\r\n  );\r\n}\r\n\r\nexport default Blogs;"],"names":[],"mappings":";;;;;;AAAA,eAAe,MAAM,EAAE,MAAM,EAAE;IAC3B,MAAM,EAAC,KAAK,EAAC,GAAG,MAAM;IACxB,qBACE,iQAAC;kBACC,cAAA,iQAAC;;gBAAG;gBAAQ;;;;;;;;;;;;AAGlB;uCAEe"}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///D:/old/Dev/learn-nextjs/app/blogs/page.js"],"sourcesContent":["export default function Blogs() {\r\n  return (\r\n    <div>\r\n      <h1>Welcome to the Blogs Page</h1>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,iQAAC;kBACC,cAAA,iQAAC;sBAAG;;;;;;;;;;;AAGV"}}]
+}

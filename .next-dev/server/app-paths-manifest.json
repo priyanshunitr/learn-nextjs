@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/blogs/[BLOGID]/comments/[COMMENTID]/page": "app/blogs/[BLOGID]/comments/[COMMENTID]/page.js",
+  "/blogs/[BLOGID]/comments/page": "app/blogs/[BLOGID]/comments/page.js",
+  "/blogs/[BLOGID]/page": "app/blogs/[BLOGID]/page.js",
+  "/blogs/page": "app/blogs/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/files/[[...FILEPATH]]/page": "app/files/[[...FILEPATH]]/page.js",
+  "/page": "app/page.js",
+  "/services/page": "app/services/page.js"
+}

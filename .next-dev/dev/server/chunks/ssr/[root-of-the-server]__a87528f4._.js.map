@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///D:/old/Dev/learn-nextjs/app/%5B...FILEPATH%5D/page.js"],"sourcesContent":["async function Comments({ params }) {\r\n    console.log(params);\r\n    const {FILEPATH} = await params;\r\n    return (\r\n    <div>\r\n      <h1> {FILEPATH} not found </h1>\r\n    </div>\r\n  );\r\n}\r\n\r\nexport default Comments;"],"names":[],"mappings":";;;;;;AAAA,eAAe,SAAS,EAAE,MAAM,EAAE;IAC9B,QAAQ,GAAG,CAAC;IACZ,MAAM,EAAC,QAAQ,EAAC,GAAG,MAAM;IACzB,qBACA,iQAAC;kBACC,cAAA,iQAAC;;gBAAG;gBAAE;gBAAS;;;;;;;;;;;;AAGrB;uCAEe"}}]
+}

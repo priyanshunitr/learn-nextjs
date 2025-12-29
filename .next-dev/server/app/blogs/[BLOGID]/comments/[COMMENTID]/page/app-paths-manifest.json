@@ -1,0 +1,3 @@
+{
+  "/blogs/[BLOGID]/comments/[COMMENTID]/page": "app/blogs/[BLOGID]/comments/[COMMENTID]/page.js"
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///D:/old/Dev/learn-nextjs/app/page.js"],"sourcesContent":["import Image from \"next/image\";\r\n\r\nexport default function Home() {\r\n  return (\r\n    <div>\r\n      <h1>Welcome to the Home Page</h1>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,iQAAC;kBACC,cAAA,iQAAC;sBAAG;;;;;;;;;;;AAGV"}}]
+}

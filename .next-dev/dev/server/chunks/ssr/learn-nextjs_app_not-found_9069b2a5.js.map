@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/old/Dev/learn-nextjs/app/not-found.js"],"sourcesContent":["export default function notFound() {\r\n  return (\r\n    <div>not-found page</div>\r\n  )\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,iQAAC;kBAAI;;;;;;AAET"}}]
+}

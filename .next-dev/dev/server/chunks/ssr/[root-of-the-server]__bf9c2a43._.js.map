@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///D:/old/Dev/learn-nextjs/app/blogs/%5BBLOGID%5D/comments/%5BCOMMENTID%5D/page.js"],"sourcesContent":["async function Comments({ params }) {\r\n    console.log(await params);\r\n    const {BLOGID, COMMENTID} = await params;\r\n    return (\r\n    <div>\r\n      <h1>Blog {BLOGID} comments {COMMENTID} </h1>\r\n    </div>\r\n  );\r\n}\r\n\r\nexport default Comments;"],"names":[],"mappings":";;;;;;AAAA,eAAe,SAAS,EAAE,MAAM,EAAE;IAC9B,QAAQ,GAAG,CAAC,MAAM;IAClB,MAAM,EAAC,MAAM,EAAE,SAAS,EAAC,GAAG,MAAM;IAClC,qBACA,iQAAC;kBACC,cAAA,iQAAC;;gBAAG;gBAAM;gBAAO;gBAAW;gBAAU;;;;;;;;;;;;AAG5C;uCAEe"}}]
+}

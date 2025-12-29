@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/blogs/[BLOGID]/comments/[COMMENTID]/page": "/blogs/[BLOGID]/comments/[COMMENTID]",
+  "/blogs/[BLOGID]/comments/page": "/blogs/[BLOGID]/comments",
+  "/blogs/[BLOGID]/page": "/blogs/[BLOGID]",
+  "/blogs/page": "/blogs",
+  "/favicon.ico/route": "/favicon.ico",
+  "/files/[[...FILEPATH]]/page": "/files/[[...FILEPATH]]",
+  "/page": "/",
+  "/services/page": "/services"
+}

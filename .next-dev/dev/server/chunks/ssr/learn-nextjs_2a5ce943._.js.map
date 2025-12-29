@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/old/Dev/learn-nextjs/app/layout.jsx"],"sourcesContent":["export default function RootLayout({ children }) {\n  return (\n    <html lang=\"en\">\n      <body>\n\n        <h1>Header</h1>\n\n        {children}\n\n        <h1>Footer</h1>\n        \n      </body>\n    </html>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS,WAAW,EAAE,QAAQ,EAAE;IAC7C,qBACE,iQAAC;QAAK,MAAK;kBACT,cAAA,iQAAC;;8BAEC,iQAAC;8BAAG;;;;;;gBAEH;8BAED,iQAAC;8BAAG;;;;;;;;;;;;;;;;;AAKZ"}},
+    {"offset": {"line": 46, "column": 0}, "map": {"version":3,"sources":["file:///D:/old/Dev/learn-nextjs/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,yIACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}

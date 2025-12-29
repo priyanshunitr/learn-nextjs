@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../learn-nextjs/app/services/page.js"],"sourcesContent":["export default function Services() {\r\n  return (\r\n    <div>\r\n      <h1>Welcome to the Services Page</h1>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":"sVAAe,SAAS,IACtB,MACE,CAAA,EAAA,EAAA,GAAA,EAAC,MAAA,UACC,CAAA,EAAA,EAAA,GAAA,EAAC,KAAA,UAAG,kCAGV"}

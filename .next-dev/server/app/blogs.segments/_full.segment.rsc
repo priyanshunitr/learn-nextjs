@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[44662,["/_next/static/chunks/77f71452cf83a577.js","/_next/static/chunks/30b01733a1e6a815.js"],"default"]
+3:I[27406,["/_next/static/chunks/77f71452cf83a577.js","/_next/static/chunks/30b01733a1e6a815.js"],"default"]
+4:I[87435,["/_next/static/chunks/77f71452cf83a577.js","/_next/static/chunks/30b01733a1e6a815.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+7:I[87435,["/_next/static/chunks/77f71452cf83a577.js","/_next/static/chunks/30b01733a1e6a815.js"],"ViewportBoundary"]
+9:I[87435,["/_next/static/chunks/77f71452cf83a577.js","/_next/static/chunks/30b01733a1e6a815.js"],"MetadataBoundary"]
+b:I[99528,[],"default"]
+0:{"P":null,"b":"mPUonv5Ytt_GYH220t7S6","c":["","blogs"],"q":"","i":false,"f":[[["",{"children":["blogs",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[null,["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","h1",null,{"children":"Header"}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"children":"not-found page"}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","h1",null,{"children":"Footer"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"children":["$","h1",null,{"children":"Welcome to the Blogs Page"}]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L7",null,{"children":"$L8"}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$La"}]}]}],null]}],false]],"m":"$undefined","G":["$b",[]],"S":true}
+8:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+c:I[67503,["/_next/static/chunks/77f71452cf83a577.js","/_next/static/chunks/30b01733a1e6a815.js"],"IconMark"]
+6:null
+a:[["$","link","0",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Lc","1",{}]]
