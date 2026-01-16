@@ -1,3 +1,4 @@
+
 async function BlogID({ params }) {
     console.log(await params);
     const {BLOGID} = await params;

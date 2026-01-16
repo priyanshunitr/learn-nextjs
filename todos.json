@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Complete documentation",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "name": "Review pull requests",
+    "status": "completed"
+  },
+  {
+    "id": 3,
+    "name": "Update dependencies",
+    "status": "in-progress"
+  },
+  {
+    "id": 4,
+    "name": "Fix login bug",
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "name": "Design system integration",
+    "status": "completed"
+  },
+  {
+    "id": 6,
+    "name": "${randomString(10)}",
+    "status": "pending"
+  },
+  {
+    "id": 7,
+    "name": "{$randomString}",
+    "status": "pending"
+  },
+  {
+    "id": 8,
+    "name": "{{randomString(10)}}",
+    "status": "pending"
+  },
+  {
+    "id": 9,
+    "name": "{{$randomString(10)}}",
+    "status": "pending"
+  }
+]
