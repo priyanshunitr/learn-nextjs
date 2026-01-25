@@ -1,11 +1,11 @@
 import connectDB from "@/lib/connectDB";
-import UserSchema from "@/model/userModel";
+import User from "@/model/userModel";
 
 export async function POST(request) {
     await connectDB();
     const user = await request.json();
     try {
-        await UserSchema.create(user);
+        await User.create(user);
         return Response.json({message : "User created successfully"}, {status : 201});
     } catch (error) {
         if (error.code === 11000) {
